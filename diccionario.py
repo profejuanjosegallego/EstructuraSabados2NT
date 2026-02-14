@@ -13,7 +13,6 @@ estudiante ["esBecado"] = True
 
 ##crear diccionario de bicicleta1
 bicicleta = {}
-
 ##poblando el diccionario de bicicleta1
 bicicleta ["id"] = 1
 bicicleta ["material"] = "plastilina"
@@ -27,8 +26,6 @@ bicicleta ["esParecida"] = True
 
 ##crear diccionario de bicicleta2
 bicicleta2 = {}
-
-
 ##poblando el diccionario de bicicleta 2
 bicicleta2 ["id"] = 2
 bicicleta2 ["material"] = "legos"
