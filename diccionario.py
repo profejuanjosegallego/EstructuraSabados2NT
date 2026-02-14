@@ -1,0 +1,12 @@
+#Creando un diccionario 
+estudiante={}
+
+#Poblando un diccionario (llenar)
+estudiante["id"]=363636
+estudiante["documento"]="233232"
+estudiante["telefono"]="3225962363"
+estudiante["promedio"]=3.5
+estudiante["correo"]="correo@gmail.com"
+estudiante["semestre"]=3
+estudiante["nombre"]="Juan Gallego"
+estudiante["esBequedo"]=True
