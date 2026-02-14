@@ -10,3 +10,15 @@ estudiante["correo"]="correo@gmail.com"
 estudiante["semestre"]=3
 estudiante["nombre"]="Juan Gallego"
 estudiante["esBecado"]=True
+
+
+bicicleta={}
+
+bicicleta["id"]="1"
+bicicleta["material"]=True
+bicicleta["ancho"]=True
+bicicleta["largo"]=True
+bicicleta["alto"]=True
+bicicleta["funcional"]=True
+bicicleta["estable"]=True
+bicicleta["parecido"]=True
