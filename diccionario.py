@@ -10,3 +10,16 @@ student = {
     'name':"Kenny Figueroa",
     'totalScholarship':True
 }
+
+# Diccionario para Bicicleta
+
+bicycle = {
+    "id":1,
+    "material":"Aleacion aluminio titanio",
+    "width": 12.5,
+    "length":1700,
+    "height":53.33,
+    'isFunctional':True,
+    'isStable':True,
+    'isLookALike':True
+}
