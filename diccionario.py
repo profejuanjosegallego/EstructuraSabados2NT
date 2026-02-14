@@ -1,9 +1,5 @@
 #creando un diccionario
 
-estudiante = {
-    "id": 3343
-}
-
 #poblando un diccionario
 estudiante["id"] = 3343
 estudiante["documento"] = "23232323"
