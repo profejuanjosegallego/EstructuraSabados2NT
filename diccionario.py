@@ -11,3 +11,15 @@ estudiante["correo"] = "carlosyepes@example.com"
 estudiante["semestre"] = 3
 estudiante["nombre"] = "Carlos Yepes"
 estudiante["esBequedo"] = False
+
+
+
+bicicleta = {}
+
+bicicleta["id"] = 1
+bicicleta["material"] = "lego"
+bicicleta["ancho"] = "2 cms"
+bicicleta["largo"] = "7 cms"
+bicicleta["esFuncional"] = True
+bicicleta["esEstable"] = False
+bicicleta["esParecido"] = True
