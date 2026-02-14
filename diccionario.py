@@ -1,17 +1,5 @@
 # Creando un diccionario
-estudiante = {
-    "id":334556,
-    "documento":2424252,
-     "telefono":25433635242,
-     "promedio":3.5,
-     "correo":"correo@gmail.com",
-    "semestre":3.5,
-    "nombre":"Juancho panzo",
-    "esbequedo":True
-    
-    
-    
-}
+estudiante = {}
 
 
 #Llenando un diccionario (lista)
@@ -23,3 +11,21 @@ estudiante=["correo"]="correo@gmail.com"
 estudiante=["semestre"]=3
 estudiante=["nombre"]="Juancho panazo"
 estudiante=["esbequedo"]=True
+
+
+#diccionario de bicicleta
+
+bicicleta = {}
+
+bicicleta = ["id"]=42353
+bicicleta = ["material"]="plastilina"
+bicicleta = ["ancho"]="3cm"
+bicicleta = ["largo"]="6cm"
+bicicleta = ["alto"]=7
+bicicleta = ["esFuncional"]=False
+bicicleta = ["esEstable"]=True  
+bicicleta = ["esParecido"]=False    
+
+
+
+
